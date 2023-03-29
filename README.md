@@ -1,7 +1,7 @@
 ![MasterHead](https://www.liverpool.ac.uk/media/livacuk/computationalbiologyfacility/homepage-banner-2.jpg)
 
 <h1 align="center">Hi 👋, I'm Sphamandla Mtambo</h1>
-<h3 align="center">I am computational biologist, with excellent problem solving skills, passionate about Machine and/ Deep Learning.</h3>
+<h3 align="center">I am computational chemist, with excellent problem solving skills, passionate about Machine and/ Deep Learning.</h3>
 
 <p align="left"> <a href="https://twitter.com/sphamtabo" target="blank"><img src="https://img.shields.io/twitter/follow/sphamtabo?logo=twitter&style=for-the-badge" alt="sphamtabo" /></a> </p>
 
